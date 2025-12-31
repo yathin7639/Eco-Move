@@ -1,0 +1,8 @@
+{
+  "name": "EcoMove",
+  "description": "A sustainable travel companion. Track your green trips, earn points, and reduce your carbon footprint with AI-powered verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
